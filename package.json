@@ -1,0 +1,15 @@
+{
+  "name": "water-wazi-landing-site",
+  "version": "1.0.0",
+  "repository": "git@github.com:OpenUpSA/water-wazi-landing-site.git",
+  "author": "JD Bothma <jbothma@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "importWebflowExport": {
+    "copyTrees": {
+      "css": "src/css",
+      "js": "src/js",
+      "images": "src/images"
+    }
+  }
+}
