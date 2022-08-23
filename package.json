@@ -10,6 +10,13 @@
       "css": "src/css",
       "js": "src/js",
       "images": "src/images"
-    }
+    },
+    "importHtml": [
+      {
+        "glob": "*.html",
+        "destDir": "src",
+        "transforms": "./src/js/webflow/import.js"
+      }
+    ]
   }
 }
