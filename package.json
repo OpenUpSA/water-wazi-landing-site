@@ -18,5 +18,8 @@
         "transforms": "./src/js/webflow/import.js"
       }
     ]
+  },
+  "scripts": {
+    "dev": "npx serve src"
   }
 }

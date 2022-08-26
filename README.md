@@ -9,3 +9,10 @@ Run
     import-webflow waterwazi-webflow-export.zip
 
 Then diff the changes, check they look cool, add them to git, commit and push.
+
+## dev
+
+- `yarn dev`
+- Open `http://localhost:3000`
+
+![Powered by Vercel](src/images/powered-by-vercel.svg)
