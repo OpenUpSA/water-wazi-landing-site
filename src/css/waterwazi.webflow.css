@@ -251,6 +251,10 @@ a {
   max-height: 70px;
 }
 
+.is--partner-logo.is-wide {
+  max-height: 120px;
+}
+
 .is--footer-title {
   margin-top: 0px;
   margin-bottom: 1em;
