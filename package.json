@@ -4,6 +4,9 @@
   "repository": "git@github.com:OpenUpSA/water-wazi-landing-site.git",
   "author": "JD Bothma <jbothma@gmail.com>",
   "license": "MIT",
+  "engines": {
+    "node": "20.x"
+  },
   "private": false,
   "importWebflowExport": {
     "copyTrees": {
